@@ -32,7 +32,7 @@ h1 {
   background: linear-gradient(
     90deg,
     rgba(249, 211, 180, 1) 0%,
-    rgba(249, 211, 180, 0) 100%
+    rgba(249, 211, 180, 0.344) 100%
   );
   background-clip: text;
   -webkit-background-clip: text;
